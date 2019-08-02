@@ -9,3 +9,5 @@ point of view.
 # List of script
 
 - HelloWorld.sh
+- MyNameIs.sh
+- specialVar.sh
